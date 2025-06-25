@@ -7410,7 +7410,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
 			(at 157.1752 123.19 0)
 			(effects
 				(font
@@ -7437,7 +7437,7 @@
 				(hide yes)
 			)
 		)
-		(property "CHIPDIP" "https://www.chipdip.ru/product0/9001068440"
+		(property "CHIPDIP" "https://www.chipdip.ru/product/cc1210kkx7r9bb104"
 			(at 156.21 119.38 0)
 			(effects
 				(font
@@ -7487,7 +7487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Plug_JAE_DX07P024AJ1"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Palconn_UTC16-G"
 			(at 34.29 43.18 0)
 			(effects
 				(font
