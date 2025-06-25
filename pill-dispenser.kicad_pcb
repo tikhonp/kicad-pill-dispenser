@@ -490,6 +490,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/waveshare-esp32/ESP32-C3_Zero.step"
+			(offset
+				(xyz 0 0 1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 180)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_2512_6332Metric"
 		(layer "F.Cu")
@@ -1790,6 +1801,17 @@
 			(uuid "23a8e3e0-7a8e-4f03-965b-e5f2fded0181")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/LS-T676-Q1R2-1-Z/LS T676-Q1R2-1-Z--3DModel-STEP-510211.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_2512_6332Metric"
 		(layer "F.Cu")
@@ -2963,13 +2985,24 @@
 			(uuid "0a4a117f-96fa-43c0-9ef3-5ea444fc319f")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/FS8205A/FS8205A--3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "TP4056-42-ESOP8:SOIC127P600X175-9N"
 		(layer "F.Cu")
 		(uuid "55128135-4a35-4fcf-883d-a96b68a904da")
 		(at 108.095 117.025 -90)
 		(property "Reference" "U3"
-			(at -4.475 1.895 180)
+			(at -4.475 1.895 0)
 			(layer "F.SilkS")
 			(uuid "d8843631-c6c9-4ad1-a39a-2cc4a7ad2c82")
 			(effects
@@ -3257,6 +3290,17 @@
 			(uuid "adeb54df-58f4-489e-a623-8f7813452729")
 		)
 		(embedded_fonts no)
+		(model "${KIPRJMOD}/TP4056-42-ESOP8/TP4056-42-ESOP8--3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Resistor_SMD:R_2512_6332Metric"
 		(layer "F.Cu")
@@ -3920,6 +3964,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/usb-c/USB4105GFA120--3DModel-STEP-56544.STEP"
+			(offset
+				(xyz 0 -2.5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
