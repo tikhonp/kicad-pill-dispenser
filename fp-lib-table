@@ -2,5 +2,6 @@
   (version 7)
   (lib (name "TP4056-42-ESOP8")(type "KiCad")(uri "${KIPRJMOD}/TP4056-42-ESOP8")(options "")(descr ""))
   (lib (name "FS8205A")(type "KiCad")(uri "${KIPRJMOD}/FS8205A")(options "")(descr ""))
-  (lib (name "waveshare-esp32")(type "KiCad")(uri "${KIPRJMOD}/waveshare-esp32")(options "")(descr ""))
+  (lib (name "waveshare-esp32")(type "KiCad")(uri "${KIPRJMOD}/waveshare-esp32/Waveshare-ESP32.pretty")(options "")(descr ""))
+  (lib (name "LS-T676-Q1R2-1-Z")(type "KiCad")(uri "${KIPRJMOD}/LS-T676-Q1R2-1-Z")(options "")(descr ""))
 )
