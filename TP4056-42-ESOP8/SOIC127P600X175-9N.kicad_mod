@@ -1,5 +1,5 @@
 
-(footprint SOIC127P600X175-9N (layer F.Cu) (tedit 6853EEBF)
+(footprint SOIC127P600X175-9N (layer F.Cu) (tedit 685C8CE6)
   (descr "")
   (attr smd)
   (fp_text reference REF** (at 0.0 -3.4925 0) (layer F.SilkS)
