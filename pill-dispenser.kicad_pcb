@@ -7213,7 +7213,7 @@
 		(uuid "a91f8e92-54af-4d84-b99f-4a98b30b576a")
 		(at 130.9 94.105)
 		(property "Reference" "U2"
-			(at 0 -1.555 0)
+			(at -10.5 11 90)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "1c48a1b8-bdab-4116-b39a-ba2d71d7bf86")
@@ -7225,9 +7225,9 @@
 			)
 		)
 		(property "Value" "ESP32-C3-Zero"
-			(at 0.45 1.695 0)
+			(at 0 0 0)
 			(unlocked yes)
-			(layer "F.SilkS")
+			(layer "F.Fab")
 			(uuid "a6d375e3-ef30-4c6b-afc2-69bc59edcbb6")
 			(effects
 				(font
@@ -7236,7 +7236,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.waveshare.com/wiki/ESP32-C3-Zero"
+		(property "Datasheet" ""
 			(at -8.5 -11.5 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7275,7 +7275,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "35485e63-0ba1-4f2e-b159-83d02a36fea2")
+			(uuid "3c3d98f1-4e02-478e-a8fb-b61ec61aced7")
 		)
 		(fp_rect
 			(start -3.85 -11.5)
@@ -7286,7 +7286,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "7e1514fe-7ca9-4e6a-b180-7fda6a129210")
+			(uuid "285f61d9-4954-4cae-8499-76d6e07dc296")
 		)
 		(fp_rect
 			(start -9.5 -13.5)
@@ -7297,7 +7297,7 @@
 			)
 			(fill no)
 			(layer "F.CrtYd")
-			(uuid "979c0b42-ebf7-4ad3-a269-c0c68cf2c983")
+			(uuid "a0d868ec-7c8f-4bbe-aae0-7302cbb7d882")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -7495,7 +7495,7 @@
 			(net 0)
 			(net_name "")
 			(layers "F.Cu" "B.Cu")
-			(uuid "21c77e09-b57e-4dfd-9757-b23c4c5c2b17")
+			(uuid "9ddfb0e1-9b4b-434f-9497-eae89275ccd4")
 			(hatch edge 0.5)
 			(connect_pads
 				(clearance 0)
