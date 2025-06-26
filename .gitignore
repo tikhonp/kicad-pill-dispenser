@@ -30,3 +30,6 @@ fp-info-cache
 **/*-backups/*.zip
 
 \#auto_saved_files\#
+
+# Gerbers folder and zip file
+gerbers*
