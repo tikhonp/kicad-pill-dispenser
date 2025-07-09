@@ -3,4 +3,5 @@
   (lib (name "Waveshare-ESP32")(type "KiCad")(uri "${KIPRJMOD}/waveshare-esp32/Waveshare-ESP32.kicad_sym")(options "")(descr ""))
   (lib (name "TP4056-42-ESOP8")(type "KiCad")(uri "${KIPRJMOD}/TP4056-42-ESOP8/TP4056-42-ESOP8.kicad_sym")(options "")(descr ""))
   (lib (name "FS8205A")(type "KiCad")(uri "${KIPRJMOD}/FS8205A/FS8205A.kicad_sym")(options "")(descr ""))
+  (lib (name "EG1271")(type "KiCad")(uri "${KIPRJMOD}/EG1271/EG1271.kicad_sym")(options "")(descr ""))
 )
