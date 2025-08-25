@@ -4,4 +4,6 @@
   (lib (name "TP4056-42-ESOP8")(type "KiCad")(uri "${KIPRJMOD}/TP4056-42-ESOP8/TP4056-42-ESOP8.kicad_sym")(options "")(descr ""))
   (lib (name "FS8205A")(type "KiCad")(uri "${KIPRJMOD}/FS8205A/FS8205A.kicad_sym")(options "")(descr ""))
   (lib (name "EG1271")(type "KiCad")(uri "${KIPRJMOD}/EG1271/EG1271.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML2502TRPBF")(type "KiCad")(uri "${KIPRJMOD}/IRLML2502TRPBF/IRLML2502TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "FSMRA6JH")(type "KiCad")(uri "${KIPRJMOD}/FSMRA6JH/FSMRA6JH.kicad_sym")(options "")(descr ""))
 )
